@@ -2,6 +2,8 @@
 .env
 data/credentials.json
 data/token.json
+credentials_encoded.txt
+token_encoded.txt
 data/logs/
 __pycache__/
 *.pyc
