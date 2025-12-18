@@ -1,0 +1,10 @@
+services:
+  menu-mailer:
+    build: .
+    container_name: menu-mailer
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    # pas de ports nécessaires pour l'exécution planifiée

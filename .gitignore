@@ -1,0 +1,8 @@
+# .gitignore
+.env
+data/credentials.json
+data/token.json
+data/logs/
+__pycache__/
+*.pyc
+.DS_Store
