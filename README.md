@@ -1,4 +1,3 @@
-```markdown
 # 📧 Menu Mailer
 
 Système d'envoi automatique d'emails hebdomadaires avec menus + liste de course générés par Mammouth AI via l'API Gmail.
@@ -277,4 +276,4 @@ json={
 - Vous n'avez pas de serveur dédié
 - Vous voulez une solution zéro maintenance
 - Vous préférez une infra cloud gérée
-```
+
